@@ -1,0 +1,314 @@
+{
+  "products": [
+    {
+      "id": "eyJpdiI6ImpjOGpEeFwvNmtPNFwvV3A0bEF3QkJOZz09IiwidmFsdWUiOiJxUm9QMUNKWjVuWFVCZk9MMGlpbjN3PT0iLCJtYWMiOiIwOGRjZTcwY2M2NDhmMWFiOWQxMWIwYzVlMjJmMzNlYzk3MWNmYzIxMjIzMzVmODI1OWQ3MDZhNDMwMzM1YmEzIn0=",
+      "name": "modi",
+      "price": "2604",
+      "stock": "5",
+      "provider": {
+        "id": "eyJpdiI6Ino2a3RNMnJLbFMxVEJFOVJNdjQrRVE9PSIsInZhbHVlIjoiSE9cL3oreFVMMk1NWHI5NWdJbFJEdkE9PSIsIm1hYyI6IjQ1YjM0ZDM5ODA3NTg0OTRiNjA3MjdjYjhlNWRiNWNiMTA3ZDdmYjllODAzYmY3ZDZjODJlZGMwYjIxZDA2MjUifQ==",
+        "rut": "93585245-1",
+        "name": "Ralph",
+        "lastname": "Murphy",
+        "phone": "925-775-0419",
+        "address": {
+          "street": "fuga",
+          "nro": "419",
+          "commune": "Perquenco",
+          "city": "La Araucanía"
+        },
+        "url": "http://www.daugherty.com/voluptatum-quia-quia-et-ea-suscipit-inventore.html",
+        "created_at": "2022-10-06"
+      },
+      "subsidiaries": [
+        {
+          "id": "eyJpdiI6IngrbXdLQjZ1Q1RnK0dwRlwvRFVMMHFRPT0iLCJ2YWx1ZSI6IjZvVE1RcHdLeWxUdDVGOW5WTVA3Vnc9PSIsIm1hYyI6IjkwMmJmMDU0YmQxMjlkMWE2ODQwODZkZTBlOWQyZmY5NmYwYWUxM2ViNTBhOWQyM2ZiYzFmOWUyNzZlMTk3OWYifQ==",
+          "name": "Chile",
+          "iso": "CL",
+          "currency": "Peso chileno",
+          "currency_code": "CLP",
+          "currency_symbol": "$"
+        }
+      ]
+    },
+    {
+      "id": "eyJpdiI6IlMyN3FVOHI1V2NkZ1wvK0d2N0xpTDR3PT0iLCJ2YWx1ZSI6IkJqMGU5T1U3bTlzV0dSckhuYloycmc9PSIsIm1hYyI6ImQzNTQ3MTIwM2NhNjYyNzQ5YzdkNTczMTdhNzgzMzZlYTQ2MjM0M2IwNDc0OGUxYTYyYzE3ZmExMmM5MDk0ZWUifQ==",
+      "name": "doloribus",
+      "price": "1667",
+      "stock": "0",
+      "provider": {
+        "id": "eyJpdiI6InZTemY2MTV1c05DMDh2Y2h0Z2RsNmc9PSIsInZhbHVlIjoiMGtjNnZMOWZzSllWd2Z5bmI1WHhVUT09IiwibWFjIjoiODExMzE3YjEyMmVhMzI1MDI5OWZhNmI2YWQwNTJjMjMwMGM5ZWFjNWM3YTU0YmQyNTM2MjdmNTA1YzczYjJmZSJ9",
+        "rut": "78767572-8",
+        "name": "Bettie",
+        "lastname": "Brown",
+        "phone": "720-979-3714 x02742",
+        "address": {
+          "street": "nisi",
+          "nro": "413",
+          "commune": "La Higuera",
+          "city": "Coquimbo"
+        },
+        "url": "http://www.stokes.info/",
+        "created_at": "2022-10-06"
+      },
+      "subsidiaries": [
+        {
+          "id": "eyJpdiI6IkQ1bVlrQUhUUU5WVFJXMTBSTnFXVmc9PSIsInZhbHVlIjoiSHdrN2J6QmtCNW96MGZPSWhSUmtjQT09IiwibWFjIjoiNGM0ODZjYTcwNDEyN2E0YjYzNGViMzIyNjRhODg3YmE1ZWJkNDlmNjdmNzNjY2FlOTJkMWNlNjFhYjA5MjZiNiJ9",
+          "name": "Brazil",
+          "iso": "BR",
+          "currency": "Real brasileño",
+          "currency_code": "BRL",
+          "currency_symbol": "R$"
+        }
+      ]
+    },
+    {
+      "id": "eyJpdiI6IkV4dHFXaFwvSEFSSWhQbnZuNm91N293PT0iLCJ2YWx1ZSI6IlkwVnk4aUk5RUlkY01ueEt2Vkh6V1E9PSIsIm1hYyI6ImM4ZmUxYzY5OTIwNTczZWFhYzgwYzkyZTFiYjhjNjFjMjU3ZjFiYmYyNTE5MjQwNDA2MGMzODQ2MjZmM2RkYjEifQ==",
+      "name": "accusamus",
+      "price": "334",
+      "stock": "2",
+      "provider": {
+        "id": "eyJpdiI6IjVUMzNYMXJENlYrSUZnelJcLzdSYzhnPT0iLCJ2YWx1ZSI6InVkWEJpU1wveTVOU2dsclUybGhVbHh3PT0iLCJtYWMiOiJjODRjNjM5MGEyNTQ3Nzg2Y2MyNjg5ZWUxYjhlZjcwZGU0ZjUzZDExYmU2MWQ5ZGZmY2QwZWMwMTc4YjA2MmM4In0=",
+        "rut": "05181921-0",
+        "name": "Aimee",
+        "lastname": "Lubowitz",
+        "phone": "541.308.8892 x606",
+        "address": {
+          "street": "quasi",
+          "nro": "680",
+          "commune": "Villarrica",
+          "city": "La Araucanía"
+        },
+        "url": "http://www.kovacek.biz/fugit-animi-est-illum-adipisci-eius-earum",
+        "created_at": "2022-10-06"
+      },
+      "subsidiaries": [
+        {
+          "id": "eyJpdiI6IlpuR1FveEVYMzJVN2tSZXBrY1B0cVE9PSIsInZhbHVlIjoiemlXeHNGYzZJQXBHeVpqWXNmU1hlUT09IiwibWFjIjoiZjBhNDZmOTA4NTk1MzdjYmMxZDBiYzJhMjVkYWE0MjlhOTQ3ZDYwZmYxY2RjYjkwMDk3YjkwMDVmZGI2ZjU1MyJ9",
+          "name": "Argentina",
+          "iso": "AR",
+          "currency": "Peso argentino",
+          "currency_code": "ARS",
+          "currency_symbol": "$"
+        }
+      ]
+    },
+    {
+      "id": "eyJpdiI6Ik1VZTBZbExCZlBrRFVrRnR6ZGUzWWc9PSIsInZhbHVlIjoiSDlBTTc1Tk9wRnU5aXdPZ1dkM1gxQT09IiwibWFjIjoiMWM3YjljZWM4YWRmZjBlYWQ2ZjZiOTJlM2VhYWUxZTQzMmMzMDU1ODZmODgyNGJlMjk5MTU3ZTA2YzJjODBiMiJ9",
+      "name": "rerum",
+      "price": "4010",
+      "stock": "9",
+      "provider": {
+        "id": "eyJpdiI6ImtDUTJKTXRjS2xHMnVmWStIeDJvclE9PSIsInZhbHVlIjoidGFSTG16S1A0bDEyRTJuQWN3S1FnQT09IiwibWFjIjoiNjFjZGFiM2UzOTY3NGI2NTc1NDA2M2M0MmE5YzYxNTBjYTdhYzQyZjA3NzdkNzRmYjY4OWY3MmI2YTA3NDI2YiJ9",
+        "rut": "56703014-0",
+        "name": "Grayson",
+        "lastname": "Weissnat",
+        "phone": "285.386.3969",
+        "address": {
+          "street": "et",
+          "nro": "605",
+          "commune": "San Javier",
+          "city": "Maule"
+        },
+        "url": "https://stroman.org/quo-quia-et-sit-enim-quia-excepturi.html",
+        "created_at": "2022-10-06"
+      },
+      "subsidiaries": [
+        {
+          "id": "eyJpdiI6ImthaktJMDBWSFFGXC84S3Z0REJMVVZ3PT0iLCJ2YWx1ZSI6InFmT3FUdFZzenpIR3d0S2c0Q1VhVGc9PSIsIm1hYyI6ImNhMDE3ZTg2ZGY4MDMzMjg3NWEwMGQ2OWJiOGI0OTgxNGQyYTM2OWM1NmFkNmVjOGQyN2ZiMzI0ZDA4MzZlMjAifQ==",
+          "name": "Colombia",
+          "iso": "CO",
+          "currency": "Peso colombiano",
+          "currency_code": "COP",
+          "currency_symbol": "$"
+        }
+      ]
+    },
+    {
+      "id": "eyJpdiI6ImVvUjhFVFwvZTRJVTU5d1BodExINEhBPT0iLCJ2YWx1ZSI6Im5uWjFSUG52V2lyQTlPVDYyN0pOSEE9PSIsIm1hYyI6ImU3NGMyZmVmZWFkMmI1Y2UzNDBmODg1ZDhkZTExMDU0OWUyNGE5MjdhM2E2NDFmYzk1NzFmNzZjODRhZjQ2ZWYifQ==",
+      "name": "adipisci",
+      "price": "4957",
+      "stock": "5",
+      "provider": {
+        "id": "eyJpdiI6Im1pUDBXR1hmZGd5aVBITkNxOTdHSFE9PSIsInZhbHVlIjoieThcL1dsdlQwOUhieEVmRmFIMWRFb2c9PSIsIm1hYyI6ImZjNThjM2M1YTdhNDYxY2NhZTY0NzY3NDg1YmY5N2QyNDc5OWE4OGE3ZmZjYmQ2NTVjZmVkOTNmNWE1ZDNjNmUifQ==",
+        "rut": "89000785-7",
+        "name": "Alejandra",
+        "lastname": "Will",
+        "phone": "(494) 223-9177 x51170",
+        "address": {
+          "street": "doloremque",
+          "nro": "787",
+          "commune": "Olmué",
+          "city": "Valparaiso"
+        },
+        "url": "http://www.lehner.org/cumque-perspiciatis-atque-reprehenderit-fuga-cumque-illo",
+        "created_at": "2022-10-06"
+      },
+      "subsidiaries": [
+        {
+          "id": "eyJpdiI6IlpWV0xkNmFOOFRhcUZ6cGZJNzZBTkE9PSIsInZhbHVlIjoiSEpnNk9KRHZERThkdkFDQ3hUc1F4UT09IiwibWFjIjoiNmI5YWYzZDM2NDM1YmNjZDNjNWNjMDRkYTcxMjA2NjUyMjI3ZTI5YTQ2ZmNlNzkwNTRlNGI0NWI0NzQ4ZjA2NyJ9",
+          "name": "Colombia",
+          "iso": "CO",
+          "currency": "Peso colombiano",
+          "currency_code": "COP",
+          "currency_symbol": "$"
+        }
+      ]
+    },
+    {
+      "id": "eyJpdiI6IjY4OVJ4SWhuelZ1NGk1ZDVoS21IelE9PSIsInZhbHVlIjoiOWJyQUg1cUM1Vlp0XC9aSU14T1VcL1p3PT0iLCJtYWMiOiJmMTgwYzA4ZTM2ZmQ1ODU3YWE2Y2U3OGJiMDllMzFhZDM2ODEyOTdkMjU4ODdmNDJiMzVhZjY1MWMyYzQyY2NkIn0=",
+      "name": "voluptas",
+      "price": "5055",
+      "stock": "9",
+      "provider": {
+        "id": "eyJpdiI6IitaTDQxeG5NcDZCNUNcL0tyS3pjSW13PT0iLCJ2YWx1ZSI6IjYwVk9NaUlmMmRHQVluSncrdDNVdnc9PSIsIm1hYyI6ImI5MGI5M2QxNDNiNmVlYzBjMDZmMjRiYWFlZDUwNjI3MmY5MDY1YWVkMTU1NDZhMDVkZmU3YjdmZmQ1M2MwYzAifQ==",
+        "rut": "46503290-2",
+        "name": "Emmet",
+        "lastname": "Kutch",
+        "phone": "(763) 923-7383 x3305",
+        "address": {
+          "street": "eum",
+          "nro": "973",
+          "commune": "San Carlos",
+          "city": "Ñuble"
+        },
+        "url": "http://veum.com/similique-natus-unde-ut-quibusdam-molestias-esse",
+        "created_at": "2022-10-06"
+      },
+      "subsidiaries": [
+        {
+          "id": "eyJpdiI6IjVQSXh3MGY1dVwvM0grdTlUa3VBQlZnPT0iLCJ2YWx1ZSI6IkxsT1M2XC9rZHVJK21TaFpEQXhaVkpBPT0iLCJtYWMiOiJjN2ViNWM0MzhhOTgxNTAzOTI4MTEyN2ZmZTBkM2YwMTEwOWNmOTMzNTA3NzcxYmFmZjRiYmIyNGVjZGY0MzA5In0=",
+          "name": "Venezuela",
+          "iso": "VE",
+          "currency": "Bolívar",
+          "currency_code": "VES",
+          "currency_symbol": "Bs"
+        }
+      ]
+    },
+    {
+      "id": "eyJpdiI6IlhOVUVjOXRLcFhabVViZ0FKUjBnUFE9PSIsInZhbHVlIjoiUG1wNURLSFBlQUdhRXk4eGNsdGN1dz09IiwibWFjIjoiZjY5YzFhZDE4NDA4ZDgwNmI2YTZlYTRlYzY4YWEyZTY5MjYwODkzYmZjODQ0NzFhMTJkYTAxZjgwYzZhYjQ2MSJ9",
+      "name": "expedita",
+      "price": "3929",
+      "stock": "0",
+      "provider": {
+        "id": "eyJpdiI6Ijg2UEpiRHBzV0Zaa1hPVmFKK2hrakE9PSIsInZhbHVlIjoiM1I3WUVDdlJ1SUZIeDBmQWJhMnE0UT09IiwibWFjIjoiNzRhNTM4NmM1MGQwYzU1YTNiZThiZjNlNGJiYjc5OTIwN2M2NTRlNTJkMGVmZmQ5MzY0MDI3MjM4ZGZkZWQ1YyJ9",
+        "rut": "19873920-4",
+        "name": "Zena",
+        "lastname": "Barrows",
+        "phone": "1-851-481-3199 x2022",
+        "address": {
+          "street": "minima",
+          "nro": "246",
+          "commune": "Alhué",
+          "city": "Metropolitana de Santiago"
+        },
+        "url": "http://www.quitzon.net/quidem-consequatur-eum-consequuntur-et-consequuntur",
+        "created_at": "2022-10-06"
+      },
+      "subsidiaries": [
+        {
+          "id": "eyJpdiI6IkM5RjJvUDhWRm9UdzJxK2xVZ2kxeGc9PSIsInZhbHVlIjoicHpGYjNQNURoUVBkM2VGSXlna1RWUT09IiwibWFjIjoiNmNlNGI1ODMxYzVkZmRjNDkyMzBjZjAwZDYxZTE2MmZiNmEyOWRiNDA3YmE2YjY1YmU4M2Q2ZWI3YjFhNGEwZiJ9",
+          "name": "Argentina",
+          "iso": "AR",
+          "currency": "Peso argentino",
+          "currency_code": "ARS",
+          "currency_symbol": "$"
+        }
+      ]
+    },
+    {
+      "id": "eyJpdiI6InVIWXdJaTB2YzNaMldmRmVlU1hkTFE9PSIsInZhbHVlIjoiM2FOTm93VnVOQnl0YlVkcGUwR2NoUT09IiwibWFjIjoiODRhYWU2MTFmZGRhY2U1Y2MwODk0NmM2ZThkZWM1ZjcxNDNmZDcyODQzOGU0MzMzNTczZDQwNzI2MGU0NmYwNiJ9",
+      "name": "magnam",
+      "price": "5821",
+      "stock": "9",
+      "provider": {
+        "id": "eyJpdiI6Ikx2bXB5d3VRa3JOMStQRkZzS2cxSlE9PSIsInZhbHVlIjoiU09YYTRKR080amdibXUrbzZMajh2QT09IiwibWFjIjoiZjAxOTk3NjdiZjI5ZDAwNjFiNjVlNTY0MGNhM2VhMTQyOTdmYmU5OWQ5NmU3N2EyNjFjODljMDdlNWYyMWQ4NiJ9",
+        "rut": "11746452-7",
+        "name": "Emile",
+        "lastname": "Treutel",
+        "phone": "659-286-3495 x92897",
+        "address": {
+          "street": "ipsa",
+          "nro": "763",
+          "commune": "Yungay",
+          "city": "Ñuble"
+        },
+        "url": "http://heaney.info/odio-deserunt-non-ipsum",
+        "created_at": "2022-10-06"
+      },
+      "subsidiaries": [
+        {
+          "id": "eyJpdiI6IlwvWll5XC92VFlnYUpna1UrQ2x5MFFPdz09IiwidmFsdWUiOiJVTE9BNlJubjRjODg4eE5WeXhDRTBnPT0iLCJtYWMiOiI5Mzc5ZWYzMmI4YTA2MjNiNTdkMTdmZWEyOGM2MWZmNTY4OTdhZDJjNWRiN2ZlODQyZWFlYTY3M2ZlNzY4NWEwIn0=",
+          "name": "Venezuela",
+          "iso": "VE",
+          "currency": "Bolívar",
+          "currency_code": "VES",
+          "currency_symbol": "Bs"
+        }
+      ]
+    },
+    {
+      "id": "eyJpdiI6InA3dmNlbnoybUd0ZzY1c0lWYUNSN2c9PSIsInZhbHVlIjoiS1dlVEFxa3Nxam44ZHM2RTcyNlYzdz09IiwibWFjIjoiMzRlZWE3OTU4NjA4YTM3NmM0MWMxZjEzOWJkOTcxYTNmOWVmMzliYmQ1MTNhNWI4MDg5ZmQwOTFlOWFiZDk2YiJ9",
+      "name": "nostrum",
+      "price": "3470",
+      "stock": "1",
+      "provider": {
+        "id": "eyJpdiI6InNXTmw3UFwvSDdBVjZXUmx5M2JWRkxBPT0iLCJ2YWx1ZSI6IjF3Z09hTjhiKzhJMG9EMzhReG1ZMFE9PSIsIm1hYyI6IjQwN2I3MjAwM2UyNzRhZjljMzY1NDgwNGE3OWFmY2Q1NDhmNzk2N2ZkZjNkMDRhODcwNTM1YTBjNGNlMDJjMWYifQ==",
+        "rut": "33136691-1",
+        "name": "Burnice",
+        "lastname": "Rogahn",
+        "phone": "+1-370-573-8374",
+        "address": {
+          "street": "nihil",
+          "nro": "900",
+          "commune": "Putre",
+          "city": "Arica y Parinacota"
+        },
+        "url": "http://www.nader.com/optio-omnis-velit-veritatis-ut.html",
+        "created_at": "2022-10-06"
+      },
+      "subsidiaries": [
+        {
+          "id": "eyJpdiI6ImxMVVBOR3VoRTVsRStUb0tMd3hqRkE9PSIsInZhbHVlIjoiK3hEYTBQZWZ4a3Y0bXBjb1RBWlZ1UT09IiwibWFjIjoiODJlNGI0Mjk0ZDg0OTcxZGY1YTg2MTU2Yzc1NjFlYjA4OTViMjZjY2ZlZTc4MDBkM2Q4MjAzMDQ3YzBiMmVjMyJ9",
+          "name": "Argentina",
+          "iso": "AR",
+          "currency": "Peso argentino",
+          "currency_code": "ARS",
+          "currency_symbol": "$"
+        }
+      ]
+    },
+    {
+      "id": "eyJpdiI6IkgyR2tONUJCSisydG1QMlp0QU95UWc9PSIsInZhbHVlIjoia21PQ1kwQ01GWitNNDFLRWhCeE1xZz09IiwibWFjIjoiODRlNDIwMWRiOTIwZDQzMjJlNTZjYTI0OGUzNDA5ZmZlMzI2MmQ0NzI2NTA4ZjI3ZmQzMzkwYzY3NzBhMGUzYSJ9",
+      "name": "odit",
+      "price": "1786",
+      "stock": "3",
+      "provider": {
+        "id": "eyJpdiI6IkJcL0NqODI4Qnd3WlNBU1JLU0pJOTl3PT0iLCJ2YWx1ZSI6InJVaWtyV0F0dW5BcFNpV1hlb3kzUmc9PSIsIm1hYyI6Ijk2YzM3YWNlY2FkNDBjNTA5OWIyOGZlZTBmZWY5ODllM2Y5ZTJkZDk2YmY4OTcwNTE5MTA4ZmEzNzc2YzI3YTcifQ==",
+        "rut": "93585245-1",
+        "name": "Ralph",
+        "lastname": "Murphy",
+        "phone": "925-775-0419",
+        "address": {
+          "street": "fuga",
+          "nro": "419",
+          "commune": "Perquenco",
+          "city": "La Araucanía"
+        },
+        "url": "http://www.daugherty.com/voluptatum-quia-quia-et-ea-suscipit-inventore.html",
+        "created_at": "2022-10-06"
+      },
+      "subsidiaries": [
+        {
+          "id": "eyJpdiI6ImUyWjBtZERONGVIRXFCcDVXVkUrOVE9PSIsInZhbHVlIjoiYlpVajAwOFYwb1NaMkcwR290RURsdz09IiwibWFjIjoiMTUzYzNiMDQxOTFhOGZlNjA3OWU0ZTI4YjU0NmQ2Y2YzOWM3OWY0NmZjMmMwMTIxZWQ1ODA3ZGZiNzZjNWZiZiJ9",
+          "name": "Venezuela",
+          "iso": "VE",
+          "currency": "Bolívar",
+          "currency_code": "VES",
+          "currency_symbol": "Bs"
+        }
+      ]
+    }
+  ]
+}
